@@ -1,0 +1,437 @@
+{
+	"name": "2019电影",
+	"children": [{
+			"name": "2.5-3",
+			"children": [{
+				"name": "下一任：前任",
+				"value": 2.8
+			}, {
+				"name": "蓝色生死恋",
+				"value": 2.9
+			}, {
+				"name": "九龙不败 九龍不敗",
+				"value": 3
+			}, {
+				"name": "唐伯虎点秋香2019",
+				"value": 2.8
+			}, {
+				"name": "欲念游戏",
+				"value": 3
+			}, {
+				"name": "最佳男友进化论",
+				"value": 2.6
+			}, {
+				"name": "钢铁飞龙之奥特曼崛起",
+				"value": 3
+			}, {
+				"name": "阿拉丁历险记 Adventures of Aladdin",
+				"value": 2.7
+			}, {
+				"name": "四目先生",
+				"value": 2.7
+			}, {
+				"name": "英雄无侠",
+				"value": 2.9
+			}, {
+				"name": "我要上头条",
+				"value": 2.6
+			}, {
+				"name": "吻吻 Kiss Kiss",
+				"value": 2.8
+			}]
+		},
+		{
+			"name": "3-3.5",
+			"children": [{
+				"name": "3-3.2",
+				"children": [{
+					"name": "上海堡垒",
+					"value": 3.2
+				}, {
+					"name": "宋慈洗冤录",
+					"value": 3.2
+				}, {
+					"name": "敢死七镖客 The Glorious Seven",
+					"value": 3.2
+				}, {
+					"name": "七剑下天山之修罗眼",
+					"value": 3.2
+				}, {
+					"name": "好汉三条半 猛男3條半",
+					"value": 3.2
+				}, {
+					"name": "魔精攻击 Critters Attack!",
+					"value": 3.2
+				}]
+			}, {
+				"name": "3.2-3.5",
+				"children": [{
+					"name": "人间·喜剧",
+					"value": 3.4
+				}, {
+					"name": "双生",
+					"value": 3.5
+				}, {
+					"name": "巨鳄",
+					"value": 3.3
+				}, {
+					"name": "转型团伙",
+					"value": 3.4
+				}, {
+					"name": "大侦探霍桑",
+					"value": 3.4
+				}, {
+					"name": "鬼吹灯之巫峡棺山",
+					"value": 3.4
+				}, {
+					"name": "人鱼江湖",
+					"value": 3.3
+				}, {
+					"name": "我的宠物是大象",
+					"value": 3.5
+				}, {
+					"name": "这个保安有点彪",
+					"value": 3.5
+				}, {
+					"name": "滚蛋吧，大魔王！",
+					"value": 3.5
+				}, {
+					"name": "我制服了魔鬼 I Trapped the Devil",
+					"value": 3.3
+				}, {
+					"name": "魔音盒 The Music Box",
+					"value": 3.4
+				}, {
+					"name": "宠物坟墓 Pet Graveyard",
+					"value": 3.5
+				}, {
+					"name": "双世青蛇",
+					"value": 3.3
+				}]
+			}]
+		},
+		{
+			"name": "3.5-4",
+			"children": [{
+				"name": "3.5-3.7",
+				"children": [{
+					"name": "素人特工",
+					"value": 3.7
+				}, {
+					"name": "我的青春都是你",
+					"value": 3.7
+				}, {
+					"name": "潜行者",
+					"value": 3.6
+				}, {
+					"name": "我唾弃你的坟墓：似曾相识 I Spit on Your Grave: Deja Vu",
+					"value": 3.6
+				}, {
+					"name": "新河东狮吼",
+					"value": 3.7
+				}, {
+					"name": "齐天大圣之大闹龙宫",
+					"value": 3.7
+				}, {
+					"name": "赎罪 Atone",
+					"value": 3.6
+				}, {
+					"name": "Havana Darkness",
+					"value": 3.7
+				}, {
+					"name": "阴影之中 Among the Shadows",
+					"value": 3.6
+				}, {
+					"name": "死亡之棚 Shed of the Dead",
+					"value": 3.6
+				}]
+			}, {
+				"name": "3.7-4.0",
+				"children": [{
+					"name": "神探蒲松龄",
+					"value": 3.8
+				}, {
+					"name": "龙牌之谜",
+					"value": 3.9
+				}, {
+					"name": "小猪佩奇过大年",
+					"value": 3.9
+				}, {
+					"name": "金蝉脱壳3：恶魔车站 Escape Plan: The Extractors",
+					"value": 4
+				}, {
+					"name": "玩偶 Dolls",
+					"value": 3.9
+				}, {
+					"name": "谁说理科生不懂爱情 电影版 理系が恋に落ちたので証明してみた。",
+					"value": 3.8
+				}, {
+					"name": "新封神之哪吒闹海",
+					"value": 3.8
+				}, {
+					"name": "东北插班生2虎啸风声",
+					"value": 3.9
+				}, {
+					"name": "齐天大圣之火焰山",
+					"value": 3.9
+				}, {
+					"name": "只属于我 Only Mine",
+					"value": 4
+				}, {
+					"name": "最后一个男孩 The Last Boy",
+					"value": 4
+				}, {
+					"name": "麻辣女孩 Kim Possible",
+					"value": 4
+				}, {
+					"name": "布莱顿惊魂 Body at Brighton Rock",
+					"value": 3.9
+				}]
+			}]
+		},
+		{
+			"name": "4-4.5",
+			"children": [{
+				"name": "4-4.2",
+				"children": [{
+					"name": "秦明·生死语者",
+					"value": 4.2
+				}, {
+					"name": "八子",
+					"value": 4.2
+				}, {
+					"name": "绑架地球人 Project Ithaca",
+					"value": 4.2
+				}, {
+					"name": "史黛拉失踪事件簿 Kidnapping Stella",
+					"value": 4.2
+				}, {
+					"name": "匿名杀手 Killers Anonymous",
+					"value": 4.1
+				}, {
+					"name": "化为灰烬 Into the Ashes",
+					"value": 4.1
+				}, {
+					"name": "玩转全家福 玩轉全家福",
+					"value": 4.2
+				}, {
+					"name": "虎胆凤威 Girls with Balls",
+					"value": 4.1
+				}, {
+					"name": "大三元",
+					"value": 4.2
+				}, {
+					"name": "最后一人 Numb, at the Edge of the End",
+					"value": 4.1
+				}, {
+					"name": "邦迪和绿河杀手 Bundy and the Green River Killer",
+					"value": 4.1
+				}, {
+					"name": "北海食神",
+					"value": 4.2
+				}, {
+					"name": "决战异世界",
+					"value": 4.2
+				}]
+			}, {
+				"name": "4.2-4.5",
+				"children": [{
+					"name": "水怪",
+					"value": 4.5
+				}, {
+					"name": "三重威胁之跨国大营救 Triple Threat",
+					"value": 4.5
+				}, {
+					"name": "石头纸之死 Rock, Paper, Scissors",
+					"value": 4.4
+				}, {
+					"name": "秘恋惊魂 Secret Obsession",
+					"value": 4.5
+				}, {
+					"name": "差等生乔曦",
+					"value": 4.3
+				}, {
+					"name": "兴风作浪",
+					"value": 4.3
+				}, {
+					"name": "难以忘怀的莎朗·塔特 The Haunting of Sharon Tate",
+					"value": 4.3
+				}, {
+					"name": "第三只眼 2 Mata Batin 2",
+					"value": 4.4
+				}, {
+					"name": "羞答答的铁男",
+					"value": 4.3
+				}, {
+					"name": "锦衣之下之绣春刀",
+					"value": 4.4
+				}, {
+					"name": "小镇车神之五菱漂移",
+					"value": 4.4
+				}, {
+					"name": "男人四十上高中",
+					"value": 4.4
+				}, {
+					"name": "入铁笼 入鐵籠",
+					"value": 4.4
+				}, {
+					"name": "绑定 Skin in the Game",
+					"value": 4.4
+				}, {
+					"name": "贞子 貞子",
+					"value": 4.3
+				}, {
+					"name": "白色女孩",
+					"value": 4.4
+				}]
+			}]
+		}, {
+			"name": "4.5-5",
+			"children": [{
+				"name": "4.5-4.7",
+				"children": [{
+					"name": "一吻定情",
+					"value": 4.6
+				}, {
+					"name": "冠军的心",
+					"value": 4.7
+				}, {
+					"name": "战斗民族养成记",
+					"value": 4.7
+				}, {
+					"name": "美式小酒馆 American Bistro",
+					"value": 4.7
+				}, {
+					"name": "至尊先生",
+					"value": 4.6
+				}, {
+					"name": "死亡水域 Dead Water",
+					"value": 4.6
+				}, {
+					"name": "你咪理，我爱你！ 你咪理，我愛你！",
+					"value": 4.6
+				}, {
+					"name": "如珠如宝的人生 如珠如寶",
+					"value": 4.7
+				}, {
+					"name": "怎么就结婚了 어쩌다, 결혼",
+					"value": 4.6
+				}, {
+					"name": "心仇 Maria",
+					"value": 4.7
+				}, {
+					"name": "竞速传奇 Trading Paint",
+					"value": 4.6
+				}, {
+					"name": "等·等",
+					"value": 4.6
+				}, {
+					"name": "醉酒夫妻 Drunk Parents",
+					"value": 4.7
+				}, {
+					"name": "傀儡 The Golem",
+					"value": 4.6
+				}, {
+					"name": "硬核风暴 The Hard Way",
+					"value": 4.7
+				}, {
+					"name": "巴黎惊梦 Paris est à nous",
+					"value": 4.7
+				}, {
+					"name": "相会在昨天 See You Yesterday",
+					"value": 4.6
+				}, {
+					"name": "幽灵车：复仇之路 The Car: Road to Revenge",
+					"value": 4.7
+				}]
+			}, {
+				"name": "4.7-5",
+				"children": [{
+					"name": "如影随心",
+					"value": 4.8
+				}, {
+					"name": "看不见的小孩",
+					"value": 4.9
+				}, {
+					"name": "非分熟女",
+					"value": 4.8
+				}, {
+					"name": "钢铁苍穹2：即临种族 Iron Sky: The Coming Race",
+					"value": 5
+				}, {
+					"name": "回到过去拥抱你",
+					"value": 5
+				}, {
+					"name": "0.0兆赫 0.0MHz",
+					"value": 5
+				}, {
+					"name": "独家记忆番外之勇敢爱",
+					"value": 5
+				}, {
+					"name": "惊天复制 Assimilate",
+					"value": 5
+				}, {
+					"name": "猪猪侠·不可思议的世界",
+					"value": 5
+				}, {
+					"name": "六胞胎 Sextuplets",
+					"value": 4.8
+				}, {
+					"name": "少女地球守护者 IO",
+					"value": 4.8
+				}, {
+					"name": "谎言与偷窃 Lying and Stealing",
+					"value": 4.9
+				}, {
+					"name": "毒玫瑰 The Poison Rose",
+					"value": 4.9
+				}, {
+					"name": "房屋出租 Room for Rent",
+					"value": 4.8
+				}, {
+					"name": "紫禁秘录",
+					"value": 4.8
+				}, {
+					"name": "学园孤岛 真人版 がっこうぐらし！",
+					"value": 4.9
+				}, {
+					"name": "50米之恋",
+					"value": 4.9
+				}, {
+					"name": "放射治疗室特别篇：启程 ラジエーションハウス～放射線科の診断レポート～ 特別編 ~旅立ち~",
+					"value": 4.9
+				}, {
+					"name": "半镜",
+					"value": 4.9
+				}, {
+					"name": "铁拳威龙 We Die Young",
+					"value": 4.9
+				}, {
+					"name": "兰开斯特的天空 Lancaster Skies",
+					"value": 4.8
+				}, {
+					"name": "春暖花开",
+					"value": 4.8
+				}, {
+					"name": "泰渝记 Changeland",
+					"value": 4.8
+				}, {
+					"name": "热情花招 ホットギミック ガールミーツボーイ",
+					"value": 4.9
+				}, {
+					"name": "多十郎殉爱记 多十郎殉愛記",
+					"value": 4.9
+				}, {
+					"name": "响尾蛇 Rattlesnakes",
+					"value": 5
+				}, {
+					"name": "新奇士家族 썬키스트 패밀리",
+					"value": 4.9
+				}, {
+					"name": "宿命，吾爱：幕间曲 Mektoub My Love: Intermezzo",
+					"value": 4.9
+				}]
+			}]
+		}
+	]
+}

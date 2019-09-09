@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>数据可视化展示</title>
+		<script type="text/javascript" src="./public/js/jquery.js"></script>
+		<link type="text/css" rel="stylesheet" href="./public/css/main.css">
+		<!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		
+		<!-- 可选的 Bootstrap 主题文件（一般不用引入） -->
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+		
+		<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+	</head>
+	<body>
+		<div class="container">
+			<div class="toparea">豆瓣电影数据可视化分析平台V1.0</div>
+			<div class="content">
+				<div class="contentLeft">
+					<ul>
+						<li><input type="button" class="btn btn-primary" value="影评分和电影数量分析" /><br></li>
+						<li><input type="button" class="btn btn-success" value="影评分和电影数量对比分析" /><br></li>
+						<li><input type="button" class="btn btn-info" value="近十年每年发行的电影分析" /><br></li>
+						<li><input type="button" class="btn btn-warning" value="2019各个国家发行的电影数量分析" /><br></li>
+						<li><input type="button" class="btn btn-danger" value="近十年中国发行的电影评分" /><br></li>
+						<li><input type="button" class="btn btn-primary"value="近十年中国发行的电影每一年的数量分布图" /><br></li>
+						<li><input type="button" class="btn btn-success" value="2019年评分在5分以下的电影名称" /><br></li>
+						<li><input type="button" class="btn btn-info" value="待定" /><br></li>
+					</ul>
+				</div>
+				<!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+				<div class="contentRight">
+					<div class="box" id="box1"></div>
+					<div class="box" id="box2"></div>
+					<div class="box" id="box3"></div>
+					<div class="box" id="box4"></div>
+					<div class="box" id="box5"></div>
+					<div class="box" id="box6"></div>
+					<div class="box" id="box7"></div>
+					<div class="box" id="box8"></div>
+				</div>
+				<div class="selectCountry" id = "select1">
+					<select>
+						<option value="China">中国</option>
+						<option value="America">美国</option>
+						<option value="England">英国</option>
+						<option value="Japan">日本</option>
+						<option value="Korea">韩国</option>
+						<option value="India">印度</option>
+						<option value="Russia">俄罗斯</option>
+						<option value="Germany">德国</option>
+						<option value="France">法国</option>
+					</select>
+				</div>
+				<div class="selectCountry" id = "select2">
+					<select>
+						<option value="China">中国</option>
+						<option value="America">美国</option>
+						<option value="England">英国</option>
+						<option value="Japan">日本</option>
+						<option value="Korea">韩国</option>
+						<option value="India">印度</option>
+						<option value="Russia">俄罗斯</option>
+						<option value="Germany">德国</option>
+						<option value="France">法国</option>
+					</select>
+				</div>
+				<div class="selectCountry" id = "select3">
+					<select>
+						<option value="China">中国</option>
+						<option value="America" selected>美国</option>
+						<option value="England">英国</option>
+						<option value="Japan">日本</option>
+						<option value="Korea">韩国</option>
+						<option value="India">印度</option>
+						<option value="Russia">俄罗斯</option>
+						<option value="Germany">德国</option>
+						<option value="France">法国</option>
+					</select>
+				</div>
+			</div>
+		</div>
+	</body>
+	<script type="text/javascript" src="./public/js/echarts.js"></script>
+	<script src="../public/js/main.js"></script>
+	<script src="../public/js/Module1.js"></script>
+	<script src="../public/js/Module2.js"></script>
+	<script src="../public/js/Module3.js"></script>
+	<script src="../public/js/Module4.js"></script>
+	<script src="../public/js/Module5.js"></script>
+	<script src="../public/js/Module6.js"></script>
+	<script src="../public/js/Module7.js"></script>
+</html>
